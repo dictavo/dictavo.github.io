@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://dictavo.github.io/sitemap/sitemap.txt
